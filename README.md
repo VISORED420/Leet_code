@@ -13,6 +13,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VISORED420/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/VISORED420/Leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VISORED420/Leet_code/tree/master/0189-rotate-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/VISORED420/Leet_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
