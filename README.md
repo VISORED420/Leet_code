@@ -13,6 +13,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VISORED420/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/VISORED420/Leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VISORED420/Leet_code/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/VISORED420/Leet_code/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VISORED420/Leet_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VISORED420/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/VISORED420/Leet_code/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/VISORED420/Leet_code/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
