@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/VISORED420/Leet_code/tree/master/0189-rotate-array) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VISORED420/Leet_code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/VISORED420/Leet_code/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
