@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/VISORED420/Leet_code/tree/master/0189-rotate-array) |
+| [2032-largest-odd-number-in-string](https://github.com/VISORED420/Leet_code/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,11 +58,13 @@
 | ------- |
 | [0055-jump-game](https://github.com/VISORED420/Leet_code/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VISORED420/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2032-largest-odd-number-in-string](https://github.com/VISORED420/Leet_code/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/VISORED420/Leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/VISORED420/Leet_code/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/VISORED420/Leet_code/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
