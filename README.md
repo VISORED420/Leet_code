@@ -76,4 +76,5 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/VISORED420/Leet_code/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/VISORED420/Leet_code/tree/master/0476-number-complement) |
+| [1054-complement-of-base-10-integer](https://github.com/VISORED420/Leet_code/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
