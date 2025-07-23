@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VISORED420/Leet_code/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/VISORED420/Leet_code/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/VISORED420/Leet_code/tree/master/1078-remove-outermost-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/VISORED420/Leet_code/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
