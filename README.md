@@ -43,6 +43,7 @@
 | [0027-remove-element](https://github.com/VISORED420/Leet_code/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VISORED420/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/VISORED420/Leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/VISORED420/Leet_code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VISORED420/Leet_code/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
@@ -59,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/VISORED420/Leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/VISORED420/Leet_code/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
