@@ -56,4 +56,12 @@
 | ------- |
 | [0055-jump-game](https://github.com/VISORED420/Leet_code/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VISORED420/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/VISORED420/Leet_code/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/VISORED420/Leet_code/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
