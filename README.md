@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/VISORED420/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VISORED420/Leet_code/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/VISORED420/Leet_code/tree/master/0055-jump-game) |
@@ -65,6 +66,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/VISORED420/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/VISORED420/Leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/VISORED420/Leet_code/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/VISORED420/Leet_code/tree/master/2032-largest-odd-number-in-string) |
@@ -78,4 +80,8 @@
 | [0191-number-of-1-bits](https://github.com/VISORED420/Leet_code/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/VISORED420/Leet_code/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/VISORED420/Leet_code/tree/master/1054-complement-of-base-10-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/VISORED420/Leet_code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
