@@ -14,12 +14,14 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VISORED420/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/VISORED420/Leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VISORED420/Leet_code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/VISORED420/Leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VISORED420/Leet_code/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VISORED420/Leet_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VISORED420/Leet_code/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/VISORED420/Leet_code/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,6 +32,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/VISORED420/Leet_code/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/VISORED420/Leet_code/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -39,6 +42,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/VISORED420/Leet_code/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/VISORED420/Leet_code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/VISORED420/Leet_code/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VISORED420/Leet_code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/VISORED420/Leet_code/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
@@ -78,10 +82,15 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/VISORED420/Leet_code/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/VISORED420/Leet_code/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/VISORED420/Leet_code/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/VISORED420/Leet_code/tree/master/1054-complement-of-base-10-integer) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VISORED420/Leet_code/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/VISORED420/Leet_code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
