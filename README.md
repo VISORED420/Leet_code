@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/VISORED420/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VISORED420/Leet_code/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/VISORED420/Leet_code/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VISORED420/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0088-merge-sorted-array) |
@@ -99,6 +100,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/VISORED420/Leet_code/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/VISORED420/Leet_code/tree/master/0792-binary-search) |
 ## String Matching
