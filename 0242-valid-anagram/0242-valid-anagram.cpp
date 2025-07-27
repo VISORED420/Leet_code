@@ -4,10 +4,9 @@ public:
         if(s.size()!=t.size()){
             return false;
         }
-        int n=s.size();
         unordered_map<char,int>sh;
         unordered_map<char,int>th;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<s.size();i++){
             sh[s[i]]++;
             th[t[i]]++;
         }
