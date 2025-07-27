@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VISORED420/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VISORED420/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/VISORED420/Leet_code/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/VISORED420/Leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VISORED420/Leet_code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/VISORED420/Leet_code/tree/master/0268-missing-number) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/VISORED420/Leet_code/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/VISORED420/Leet_code/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/VISORED420/Leet_code/tree/master/0792-binary-search) |
