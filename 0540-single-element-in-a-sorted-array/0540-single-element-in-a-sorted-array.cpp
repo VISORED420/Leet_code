@@ -3,9 +3,8 @@ public:
     int singleNonDuplicate(vector<int>& nums) {
   int low = 0;
         int high = nums.size() - 1;
-
+        int mid = 0;
         while (low < high) {
-            int mid = low + (high - low) / 2;
 
             if (mid % 2 == 1) {
                 mid--;
@@ -16,8 +15,10 @@ public:
             } else {
                 high = mid;
             }
+            mid = low + (high - low) / 2;
+
         }
 
-        return nums[low];
+        return nums[mid];
     }
 };
