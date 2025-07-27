@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/VISORED420/Leet_code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/VISORED420/Leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VISORED420/Leet_code/tree/master/0283-move-zeroes) |
+| [0792-binary-search](https://github.com/VISORED420/Leet_code/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VISORED420/Leet_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/VISORED420/Leet_code/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/VISORED420/Leet_code/tree/master/0792-binary-search) |
 ## String Matching
 |  |
 | ------- |
