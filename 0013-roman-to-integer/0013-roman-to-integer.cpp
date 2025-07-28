@@ -15,7 +15,7 @@ public:
         for(int i = 0; i<s.size(); i++){
             if(val[s[i]] < val[s[i+1]]){
                 sum = sum - val[s[i]];
-            }else if(val[s[i]] >= val[s[i+1]] ){
+            }else{
                 sum = sum + val[s[i]];
             }
         }
