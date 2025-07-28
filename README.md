@@ -25,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/VISORED420/Leet_code/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/VISORED420/Leet_code/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/VISORED420/Leet_code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VISORED420/Leet_code/tree/master/0242-valid-anagram) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/VISORED420/Leet_code/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/VISORED420/Leet_code/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/VISORED420/Leet_code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/VISORED420/Leet_code/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VISORED420/Leet_code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -81,6 +83,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/VISORED420/Leet_code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/VISORED420/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/VISORED420/Leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/VISORED420/Leet_code/tree/master/0205-isomorphic-strings) |
