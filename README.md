@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/VISORED420/Leet_code/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/VISORED420/Leet_code/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/VISORED420/Leet_code/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/VISORED420/Leet_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@
 | [0268-missing-number](https://github.com/VISORED420/Leet_code/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/VISORED420/Leet_code/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/VISORED420/Leet_code/tree/master/0907-koko-eating-bananas) |
 ## String Matching
 |  |
 | ------- |
