@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VISORED420/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VISORED420/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/VISORED420/Leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/VISORED420/Leet_code/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/VISORED420/Leet_code/tree/master/0169-majority-element) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VISORED420/Leet_code/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/VISORED420/Leet_code/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/VISORED420/Leet_code/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/VISORED420/Leet_code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VISORED420/Leet_code/tree/master/0242-valid-anagram) |
@@ -139,4 +141,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/VISORED420/Leet_code/tree/master/0451-sort-characters-by-frequency) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/VISORED420/Leet_code/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
