@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VISORED420/Leet_code/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VISORED420/Leet_code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/VISORED420/Leet_code/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/VISORED420/Leet_code/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/VISORED420/Leet_code/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VISORED420/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/VISORED420/Leet_code/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/VISORED420/Leet_code/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/VISORED420/Leet_code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/VISORED420/Leet_code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/VISORED420/Leet_code/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VISORED420/Leet_code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -150,5 +152,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VISORED420/Leet_code/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/VISORED420/Leet_code/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
